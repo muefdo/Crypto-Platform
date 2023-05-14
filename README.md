@@ -1,3 +1,5 @@
+**For safety purposes ı am not able to share all source codes. A part of the project is shared here, and the project continues to be developed continuously.**
+
 Welcome to CryptoHype, a cryptocurrency web page built using JavaScript, ReactJS, and NextJS, and powered by the CoinGecko API for live coin data.
 
 My goal with this project is to provide users with a sleek and user-friendly platform for tracking the latest cryptocurrency prices, news, and trends. I am continuously working to improve and enhance our web page with new features, and I invite you to join us on this journey.
@@ -11,6 +13,8 @@ Thank you for your interest in CryptoHype, and we look forward to your contribut
 Link: [https://www.cryptohype.cloud/](https://www.cryptohype.cloud/)
 
 ---------------------------------------------------------------------------------------------------------
+
+**Güvenlik nedeniyle tüm kaynak kodlarını paylaşamıyorum. projenin bir kısmı burda paylaşılıyor, ayrıca proje sürekli olarak geliştirilmeye devam ediyor.**
 
 JavaScript, ReactJS ve NextJS kullanarak oluşturduğum, CryptoHype kripto para birimi web sayfasına hoş geldiniz. Sayfamızda coingecko API'si ile canlı veri sağlıyoruz ve kullanıcılara en güncel kripto para birimi fiyatları, haberleri ve trendleri takip etmek için kullanıcı dostu bir platform sunmayı hedefliyoruz.
 
