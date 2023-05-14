@@ -1,0 +1,42 @@
+.currencyBody{
+    display: contents;
+    align-items: center;
+    padding: 70px;
+}
+
+.currencyH1{
+    color: aliceblue;
+    text-align: center;
+    padding: 50px;
+}
+
+.group{
+    
+    background: #335;
+    width: 200px;
+    margin: 0 auto 20px;
+    display: grid;
+    grid-template-columns: 100px 80px;
+    border-radius: 15px;
+}
+
+.input{
+    background: none;
+    border: 0;
+    color: aliceblue;
+    padding-left: 10px;
+
+}
+
+.select{
+    background: none;
+    border: 0;
+    color: aliceblue;
+    padding: 15px;
+}
+
+.option{
+    color: aliceblue;
+    background-color: #335;
+}
+
